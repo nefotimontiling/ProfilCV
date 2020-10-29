@@ -1,0 +1,33 @@
+body {
+    background: url(1.jpg) repeat;
+    border: 0px solid black;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: 'Staatliches', cursive;
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body.a {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    position: relative;
+ }
+
+ h4 {
+     font-size: 25px;
+ }
+
+ 
