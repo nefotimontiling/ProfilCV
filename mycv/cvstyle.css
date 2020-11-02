@@ -1,6 +1,9 @@
 body {
     background: url(1.jpg) repeat;
-    border: 0px solid black;
+    background-size: cover;
+    background-attachment: fixed;
+    border: 0px solid white;
+
 }
 
 h1 {
@@ -30,4 +33,47 @@ h2 {
      font-size: 25px;
  }
 
- 
+ body.A {
+    font-family: 'Roboto', sans-serif;
+    background: url(1.jpg) repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    margin: 0px auto;
+ }
+
+ body.B {
+    background: url(1.jpg) repeat;
+    font-family: 'Roboto', sans-serif;
+    border: white;
+    color: lightgray;
+ }
+
+ body.C {
+    font-family: 'Roboto', sans-serif;
+    background: url(iOt.jpg) repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+ }
+
+ body.D {
+    font-family: 'Roboto', sans-serif;
+    background: url(iOt.jpg) repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+
+ body.E {
+    font-family: 'Roboto', sans-serif;
+    background: url(iOt.jpg) repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+
+ body.F {
+    font-family: 'Roboto', sans-serif;
+    background: url(iOt.jpg) repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
